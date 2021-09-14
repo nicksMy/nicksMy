@@ -1,6 +1,6 @@
 :computer::paintbrush: I'm Dev and Artist!
 
-:brazil::flag_br: I’m from Brazil.
+:beach_umbrella: I’m from Floripa, SC - BRAZIL.
 
 :maple_leaf: I do ma best, every day.
 
