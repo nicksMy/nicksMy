@@ -1,6 +1,6 @@
 :computer::paintbrush: I'm Dev and Artist!
 
-:brazil: I’m from Brazil.
+:brazil::flag_br: I’m from Brazil.
 
 :maple_leaf: I do ma best, every day.
 
