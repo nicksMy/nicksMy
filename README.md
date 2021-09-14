@@ -1,6 +1,6 @@
-:computer: I'm Dev and Artist!
+:computer::paintbrush: I'm Dev and Artist!
 
-:1F1E7 1F1F7: I’m from Brazil.
+:brazil: I’m from Brazil.
 
 :maple_leaf: I do ma best, every day.
 
