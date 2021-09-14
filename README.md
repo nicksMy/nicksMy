@@ -2,7 +2,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I do ma best, every day.
+:maple_leaf: I do ma best, every day.
 
 ## Languages and Tools:
 [![nickMy stats](https://github-readme-stats.vercel.app/api?username=nicksMy&theme=midnight-purple)](https://github.com/nicksMy/github-readme-stats\n)
