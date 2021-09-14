@@ -1,11 +1,8 @@
-:computer: I'm Front-End Developer!
+:computer: I'm Dev and Artist!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-
+:books: I do ma best, every day.
 
 <!--
 **nicksMy/nicksMy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
