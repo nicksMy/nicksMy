@@ -4,7 +4,7 @@
 
 :maple_leaf: I do ma best, every day.
 
-## Languages and Tools:
+## Languages:
 [![nickMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&theme=midnight-purple)](https://github.com/nicksMy/github-readme-stats)
 
 <!--
