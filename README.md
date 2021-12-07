@@ -1,10 +1,10 @@
  uses: nicksMy/nicksMy@master
   with:
-    github_user_name: ${{ github.nicksMy/nicksMy }}
+    github_user_name: ${{ github.repository_owner }}
 
     gif_out_path: dist/github-snake.gif
 
-    svg_out_path: dist/github-snake.svg
+    svg_out_path: github-user-contribution.svg
     
 [![nicksMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&theme=dracula&layout=compact)](https://github.com/nicksMy/github-readme-stats)
 
