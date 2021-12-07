@@ -5,9 +5,9 @@
 :maple_leaf: I do ma best, every day.
 
 ## Languages:
-[![nicksMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&theme=midnight-purple&layout=compact)](https://github.com/nicksMy/github-readme-stats)
+[![nicksMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&theme=dracula&layout=compact)](https://github.com/nicksMy/github-readme-stats)
 
-[![nicksMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nicksMy/nicksMy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
