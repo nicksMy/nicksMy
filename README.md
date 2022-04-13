@@ -1,4 +1,4 @@
-## Welcome to my valley <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Welcome to my valley
 
 [![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksMy&theme=tokyonight&layout=compact)](https://github.com/nicksMy/github-readme-stats)
 
