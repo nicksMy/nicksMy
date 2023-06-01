@@ -5,3 +5,11 @@
 [![nicksMy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&theme=tokyonight&layout=compact)](https://github.com/nicksMy/github-readme-stats)
 
 ## I'm Dev and Artist from Floripa, SC - Brazil and I do ma best, every f@%#ing day!
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=nicksMy&theme=tokyonight&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicksMy&theme=tokyonight&layout=compact" />
+</picture>
