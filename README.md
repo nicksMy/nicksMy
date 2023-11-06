@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&layout=compact&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksMy&layout=compact&theme=radical)
+<br>
+<br>
 ![nicksMy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksMy&show_icons=true&theme=radical)
 
 Hi, my name is Nicolas Schüssler and I'm 20 years old, I'm a Game Design student at UNIVALI College - Universidade do Vale do Itajaí and I'm fascinated by the beauties of digital games. 🔎🎲👾🔫
